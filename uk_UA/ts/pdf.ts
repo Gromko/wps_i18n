@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>填充</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>橡皮</source>

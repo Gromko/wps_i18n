@@ -311,7 +311,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="ClearFilter.content">
         <source>Clear the filter and sort state for the current range of data.</source>
         <extracomment>ClearFilter.content</extracomment>
-        <translation>Очистіть фільтр і сортуйте стан для поточного діапазону даних.</translation>
+        <translation>Очистіть фільтр і впорядкуйте стан для поточного діапазону даних.</translation>
     </message>
     <message id="ColumnsCenter.title">
         <source>Center Across</source>
@@ -423,12 +423,12 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DataSort.title">
         <source>Sort</source>
         <extracomment>DataSort.title</extracomment>
-        <translation>Сортувати</translation>
+        <translation>Впорядкувати</translation>
     </message>
     <message id="DataSort.content">
         <source>Show the Sort dialog box to sort data based on several criteria at once.</source>
         <extracomment>DataSort.content</extracomment>
-        <translation>Показати діалогове вікно Сортувати, щоб сортувати дані на основі декількох критеріїв одночасно.</translation>
+        <translation>Показати діалогове вікно Впорядкувати, щоб впорядкувати дані на основі декількох критеріїв одночасно.</translation>
     </message>
     <message id="DataTable.title">
         <source>Data Table</source>
@@ -1626,7 +1626,7 @@ The field list allows you to add and remove fields.</oldsource>
     <message id="PTSortAndTopTen.content">
         <source>Set the auto sort option of the PivotTable field.</source>
         <extracomment>PTSortAndTopTen.content</extracomment>
-        <translation>Встановіть параметр автоматичного сортування поля PivotTable.</translation>
+        <translation>Встановіть параметр автоматичного впорядкування поля PivotTable.</translation>
     </message>
     <message id="PTSubtotals.title">
         <source>Subtotals</source>
@@ -1986,9 +1986,9 @@ Click the arrow to pick a different color.</source>
 
 New or modified data in the column will not be filtered or sorted until you click Reapply.</source>
         <extracomment>ReapplyFilter.content</extracomment>
-        <translation>Повторно застосуйте фільтр і сортуйте у поточному діапазоні.
+        <translation>Повторно застосуйте фільтр і впорядкуйте у поточному діапазоні.
 
-Нові або змінені дані у стовпці не будуть фільтруватися чи сортуватися, доки не натисніть кнопку Повторно застосувати.</translation>
+Нові або змінені дані у стовпці не будуть фільтруватися чи впорядкуватися, доки не натисніть кнопку Повторно застосувати.</translation>
     </message>
     <message id="RecalculateBook.title">
         <source>Recalculate Workbook</source>
@@ -2188,7 +2188,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="ShapeFillColor.title">
         <source>Shape Fill</source>
         <extracomment>ShapeFillColor.title</extracomment>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message id="ShapeFillColor.content">
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
@@ -2294,7 +2294,7 @@ You can sort the selected data in ascending or descending order.</source>
         <extracomment>SortAndFilter.content</extracomment>
         <translation>Впорядкуйте дані так, щоб їх було простіше аналізувати.
 
-Ви можете сортувати вибрані дані у порядку зростання або зменшення.</translation>
+Ви можете впорядкувати вибрані дані у порядку зростання або зменшення.</translation>
     </message>
     <message id="SortAscending.title">
         <source>Ascending</source>
@@ -2304,7 +2304,7 @@ You can sort the selected data in ascending or descending order.</source>
     <message id="SortAscending.content">
         <source>Sort the selection so that the lowest values are at the top of the column.</source>
         <extracomment>SortAscending.content</extracomment>
-        <translation>Сортуйте виділення так, щоб найнижчі значення знаходились у верхній частині стовпця.</translation>
+        <translation>Впорядкуйте виділення так, щоб найнижчі значення знаходились у верхній частині стовпця.</translation>
     </message>
     <message id="SortDescending.title">
         <source>Descending</source>
@@ -2314,7 +2314,7 @@ You can sort the selected data in ascending or descending order.</source>
     <message id="SortDescending.content">
         <source>Sort the selection so that the highest values are at the top of the column.</source>
         <extracomment>SortDescending.content</extracomment>
-        <translation>Сортуйте виділення так, щоб найвищі значення знаходились у верхній частині стовпця.</translation>
+        <translation>Впорядкуйте виділення так, щоб найвищі значення знаходились у верхній частині стовпця.</translation>
     </message>
     <message id="SourceData.title">
         <source>Select Data</source>
@@ -2907,7 +2907,7 @@ Click the arrow to see the different types of scatter and bubble charts availabl
 Tables make it easy to sort, filter, and format data within a sheet.</source>
         <translation>Створіть таблицю для керування та аналізу пов’язаних даних.
 
-Таблиці спрощують сортування, фільтрування та форматування даних у межах аркуша.</translation>
+Таблиці спрощують впорядкування, фільтрування та форматування даних у межах аркуша.</translation>
     </message>
     <message id="FormatAsTable.title">
         <source>Format As Table</source>

@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Renew Now >></source>
-        <translation>Продовжити >></translation>
+        <translation>Оновити зараз >></translation>
     </message>
     <message>
         <source>Your subscription has expired</source>
@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/>After the probation period, you will not be able to normal use of the product. &lt;br/> In order to not be affected, please buy the WPS Office.</source>
-        <translation>Дозволений період використання продукту становить %1. &lt;br/>Після його закінчення WPS Office не працюватиме належним чином. &lt;br/>Якщо ви хочете продовжити користуватися продуктом, поновіть його.</translation>
+        <translation>Дозволений період використання продукту становить %1. &lt;br/>Після його закінчення WPS Office не працюватиме належним чином. &lt;br/>Якщо ви хочете продовжити користуватися продуктом, придбайте його.</translation>
     </message>
     <message>
         <source>The Authorize period is about to expire</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Contact Email:gch@wps.cn</source>
-        <translation>Contact Email:gch@wps.cn</translation>
+        <translation>Електронна пошта для контактів:gch@wps.cn</translation>
     </message>
 </context>
 <context>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
-        <translation>(&quot;Ім&apos;я &quot;- це ім&apos;я автора і рецензента)</translation>
+        <translation>(&quot;Ім&apos;я&quot; - це ім&apos;я автора і рецензента)</translation>
     </message>
     <message>
         <source>Initials:</source>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation>Закрити</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
@@ -103,11 +103,11 @@
     </message>
     <message>
         <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation>Ви ввели невірний серійний номер. Перевірте формат вводу, підтримувану версію і правильність дати.</translation>
+        <translation>Ви ввели неправильний серійний номер. Перевірте формат вводу, підтримувану версію і правильність дати.</translation>
     </message>
     <message>
         <source>Your input is incorrect and the program will exit.</source>
-        <translation>Невірне введення, програма буде закрита.</translation>
+        <translation>Помилкове введення, програма буде закрита.</translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>Please Choose</source>
-        <translation>Виберіть</translation>
+        <translation>Будь-ласка, оберіть</translation>
     </message>
 </context>
 <context>
@@ -133,7 +133,7 @@
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
-        <translation>Винятковий</translation>
+        <translation>Преміум</translation>
     </message>
     <message>
         <source>Trial</source>
@@ -183,11 +183,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Contact Email:gch@wps.cn</source>
-        <translation>Contact Email:gch@wps.cn</translation>
+        <translation>Електронна пошта для контактів:gch@wps.cn</translation>
     </message>
     <message>
         <source>&lt;html>&lt;head/>&lt;body>&lt;p>Sorry, your authorization has expired. A few but not all features of this software will remain available to you. Please contact your company&apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.&lt;/p>&lt;/body>&lt;/html></source>
-        <translation>&lt;html>&lt;head/>&lt;body>&lt;p>Sorry, your authorization has expired. A few but not all features of this software will remain available to you. Please contact your company&apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.&lt;/p>&lt;/body>&lt;/html></translation>
+        <translation>&lt;html>&lt;head/>&lt;body>&lt;p>Вибачте, термін вашої авторизації закінчився. Декілька, але не всі, функції цього програмного забезпечення залишаться вам доступними. Для отримання нового коду авторизації зверніться до відділу ІТ Вашої компанії. Для отримання додаткової інформації зверніться до служби підтримки користувачів WPS 400-677-5005.&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>
@@ -222,7 +222,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Buy/Renew Now</source>
-        <translation>Придбати/продовжити</translation>
+        <translation>Придбати/Оновити зараз</translation>
     </message>
 </context>
 <context>
@@ -237,7 +237,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Disagree</source>
-        <translation>Не знаю</translation>
+        <translation>Не погоджуюсь</translation>
     </message>
 </context>
 <context>
@@ -287,7 +287,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Start your free %1-day trial.</source>
-        <translation>Почніть безкоштовний %1-денний пробний період.</translation>
+        <translation>Почати безкоштовний %1-денний пробний період.</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -299,7 +299,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>Введіть код активації</translation>
+        <translation>Ввести код активації</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
@@ -314,19 +314,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Infotip</source>
-        <translation>Підказка</translation>
+        <translation>Порада</translation>
     </message>
     <message>
         <source>Thanks for using WPS Office 2012 Beta2.</source>
-        <translation>Дякуємо за використання WPS Office 2012 Бета 2.</translation>
+        <translation>Дякуємо за використання WPS Office 2012 Beta2.</translation>
     </message>
     <message>
         <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
-        <translation>Пробний період WPS Office бета-версії закінчився. Ви можете увійти в режим перегляду, у якому введення з клавіатури буде відключений, або продовжити або оновити до останньої особисту версію WPS Office.</translation>
+        <translation>Пробний період WPS Office бета-версії закінчився. Ви можете увійти в режим перегляду, у якому введення з клавіатури буде відключене, або продовжити чи оновити до останньої персональної версії WPS Office.</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;> WPS Online Store &lt;/a>.</source>
-        <translation>&lt;a href=&apos;urlonline &apos;>Інтернет-магазин WPS &lt;/a >.</translation>
+        <translation>&lt;a href=&apos;urlonline &apos;> Онлайн-магазин WPS &lt;/a >.</translation>
     </message>
     <message>
         <source>Update Now</source>
@@ -357,7 +357,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;html>&lt;head/>&lt;body>&lt;p>&lt;span style=&quot; color:#343434;&quot;>Trial period is over.You will enter the preview mode that offer a unnormal funtion of WPS Office.If need to continue to use,please buy the WPS Office&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
-        <translation>&lt;html >&lt;head/>&lt;body >&lt;p >&lt;span style=&quot;color:#343434; &quot; > Пробний період використання WPS Office закінчився. Ви ввійдете в режим перегляду, у якому WPS Office не може функціонувати належним чином. Щоб відновити нормальну роботу, необхідно придбати WPS Office. &lt;/span > &lt;/p > &lt;/body > &lt;/html ></translation>
+        <translation>&lt;html>&lt;head/>&lt;body>&lt;p>&lt;span style=&quot;color:#343434;&quot;>Пробний період використання WPS Office закінчився. Ви ввійдете в режим перегляду, у якому WPS Office не може функціонувати належним чином. Щоб відновити нормальну роботу, необхідно придбати WPS Office.&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
         <source>preview mode</source>
@@ -369,14 +369,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Contact Email:gch@wps.cn</source>
-        <translation>Contact Email:gch@wps.cn</translation>
+        <translation>Електронна пошта для контактів:gch@wps.cn</translation>
     </message>
 </context>
 <context>
     <name>KxDlgTrialReminder</name>
     <message>
         <source>WPS Office Trial Reminder</source>
-        <translation>Нагадування про пробне терміні дії WPS Office</translation>
+        <translation>Нагадування про пробний термін дії WPS Office</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>
@@ -392,7 +392,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;html>&lt;head/>&lt;body>&lt;p>&lt;span style=&quot; color:#343434;&quot;>To buy the WPS office, can continue to normal use after the probation period&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
-        <translation>&lt;html >&lt;head/>&lt;body >&lt;p >&lt;span style=&quot;color:#343434; &quot; > Купівля WPS Office дозволить продовжити його використання після пробного терміну. ​​&lt;/span > &lt;/p > &lt;/body > &lt;/html ></translation>
+        <translation>&lt;html>&lt;head/>&lt;body>&lt;p>&lt;span style=&quot;color:#343434;&quot;>Купівля WPS Office дозволить продовжити його використання після пробного терміну.​​&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
         <source>Buy Now</source>
@@ -415,7 +415,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Buy Now</source>
-        <translation>&amp;Придбати зараз</translation>
+        <translation>Придбати зараз</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
@@ -438,11 +438,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Download</source>
-        <translation>&amp;Завантаження</translation>
+        <translation>Завантажити</translation>
     </message>
     <message>
         <source>Never show again</source>
-        <translation>Never show again</translation>
+        <translation>Не показувати знову</translation>
     </message>
 </context>
 <context>
@@ -480,19 +480,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Вхід</translation>
+        <translation>Увійти</translation>
     </message>
     <message>
         <source>Sign in to use WPS Office and enjoy more advanced services.</source>
-        <translation>Увійдіть в WPS Office і насолоджуйтеся додатковими можливостями.</translation>
+        <translation>Увійти в WPS Office і насолоджуватися додатковими можливостями.</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>Введіть код активації</translation>
+        <translation>Ввести код активації</translation>
     </message>
     <message>
         <source>Activate WPS Office with existing activation code.</source>
-        <translation>Активуйте WPS Office за допомогою наявного коду активації.</translation>
+        <translation>Активувати WPS Office за допомогою наявного коду активації.</translation>
     </message>
     <message>
         <source>Trial</source>
@@ -516,11 +516,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter Serial Number</source>
-        <translation>Введіть серійний номер</translation>
+        <translation>Ввести серійний номер</translation>
     </message>
     <message>
         <source>Activate WPS Office with existing Serial Number.</source>
-        <translation>Активуйте WPS Office за допомогою наявного серійного номера.</translation>
+        <translation>Активувати WPS Office за допомогою наявного серійного номера.</translation>
     </message>
 </context>
 <context>
@@ -547,7 +547,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Click here to %1Login%2 or %3Enter activation code%4.</source>
-        <translation>Click here to %1Login%2 or %3Enter activation code%4.</translation>
+        <translation>Натисніть тут, щоб % 1Увійти%2 або %3Введіть код активації%4.</translation>
     </message>
     <message>
         <source>Need Help?</source>
@@ -555,7 +555,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started >>%3.</source>
-        <translation>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started >>%3.</translation>
+        <translation>Включає %1-денну безкоштовну пробну версію WPS Office Business Edition. %2Розпочати >>%3.</translation>
     </message>
 </context>
 <context>
@@ -570,7 +570,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enable/Disable Online Template</source>
-        <translation>Дозволити або заборонити шаблони з інтернету</translation>
+        <translation>Увімкнути/Вимкнути онлайн-шаблон</translation>
     </message>
     <message>
         <source>Mail Merge</source>
@@ -578,15 +578,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Track Changes</source>
-        <translation>Виправлення</translation>
+        <translation>Відстежувати зміни</translation>
     </message>
     <message>
         <source>Choose revision markups and comment formatting, or to change reviewer information.</source>
-        <translation>Вибір міток виправлень і форматування приміток або зміна інформації перевіряючого.</translation>
+        <translation>Вибрати мітки редагування та форматування коментарів або змініть інформацію рецензента.</translation>
     </message>
     <message>
         <source>Fields Protection</source>
-        <translation>Захист поля</translation>
+        <translation>Захист полів</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -594,11 +594,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert ghosted text and picture behind the content on the page.</source>
-        <translation>Вставка прихованого тексту і малюнка позаду вмісту сторінки.</translation>
+        <translation>Вставити прихований текст і малюнок позаду вмісту сторінки.</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation>Обмеження редагування</translation>
+        <translation>Обмежити редагування</translation>
     </message>
     <message>
         <source>Restrict how people edit or format specific parts of the document.</source>

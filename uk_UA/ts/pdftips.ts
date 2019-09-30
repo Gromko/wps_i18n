@@ -77,7 +77,7 @@
     <message id="LastPage.title">
         <source>LastPage</source>
         <extracomment>LastPage.title</extracomment>
-        <translation>LastPage</translation>
+        <translation>Остання сторінка</translation>
     </message>
     <message id="LastPage.content">
         <source>LastPage</source>
@@ -87,7 +87,7 @@
     <message id="FitWidth.title">
         <source>FitWidth</source>
         <extracomment>FitWidth.title</extracomment>
-        <translation>FitWidth</translation>
+        <translation>Ширина прилягання</translation>
     </message>
     <message id="FitWidth.content">
         <source>FitWidth</source>
@@ -107,7 +107,7 @@
     <message id="FitPageSize.title">
         <source>FitPageSize</source>
         <extracomment>FitPageSize.title</extracomment>
-        <translation>FitPageSize</translation>
+        <translation>Підібрати розмір сторінки</translation>
     </message>
     <message id="FitPageSize.content">
         <source>FitPageSize</source>
@@ -117,7 +117,7 @@
     <message id="SinglePageContinuous.title">
         <source>SinglePageContinuous</source>
         <extracomment>SinglePageContinuous.title</extracomment>
-        <translation>Безперервний</translation>
+        <translation>Одна сторінка</translation>
     </message>
     <message id="SinglePageContinuous.content">
         <source>SinglePageContinuous</source>
@@ -127,7 +127,7 @@
     <message id="TwoPageContinuous.title">
         <source>TwoPageContinuous</source>
         <extracomment>TwoPageContinuous.title</extracomment>
-        <translation>TwoPageContinuous</translation>
+        <translation>Дві сторінки</translation>
     </message>
     <message id="TwoPageContinuous.content">
         <source>TwoPageContinuous</source>
@@ -137,7 +137,7 @@
     <message id="ZoomIn.title">
         <source>ZoomIn</source>
         <extracomment>ZoomIn.title</extracomment>
-        <translation>zoomIn</translation>
+        <translation>Збільшити</translation>
     </message>
     <message id="ZoomIn.content">
         <source>ZoomIn</source>
@@ -147,7 +147,7 @@
     <message id="ZoomOut.title">
         <source>ZoomOut</source>
         <extracomment>ZoomOut.title</extracomment>
-        <translation>zoomOut</translation>
+        <translation>Зменшити</translation>
     </message>
     <message id="ZoomOut.content">
         <source>ZoomOut</source>
@@ -177,7 +177,7 @@
     <message id="FloatHandTool.title">
         <source>FloatHandTool</source>
         <extracomment>FloatHandTool.title</extracomment>
-        <translation>FloatHandTool</translation>
+        <translation>Плаваючий інструмент Рука</translation>
     </message>
     <message id="FloatHandTool.content">
         <source>FloatHandTool</source>
@@ -187,7 +187,7 @@
     <message id="FloatSelectionTool.title">
         <source>FloatSelectionTool</source>
         <extracomment>FloatSelectionTool.title</extracomment>
-        <translation>FloatSelectionTool</translation>
+        <translation>Плаваючий інструмент Вибір </translation>
     </message>
     <message id="FloatSelectionTool.content">
         <source>FloatSelectionTool</source>
@@ -197,7 +197,7 @@
     <message id="FloatZoomIn.title">
         <source>FloatZoomIn</source>
         <extracomment>FloatZoomIn.title</extracomment>
-        <translation>FloatZoomIn</translation>
+        <translation>Плаваючий інструмент Збільшити</translation>
     </message>
     <message id="FloatZoomIn.content">
         <source>FloatZoomIn</source>
@@ -207,7 +207,7 @@
     <message id="FloatZoomOut.title">
         <source>FloatZoomOut</source>
         <extracomment>FloatZoomOut.title</extracomment>
-        <translation>FloatZoomOut</translation>
+        <translation>Плаваючий інструмент Зменшити</translation>
     </message>
     <message id="FloatZoomOut.content">
         <source>FloatZoomOut</source>
@@ -217,7 +217,7 @@
     <message id="FloatFitWidth.title">
         <source>FloatFitWidth</source>
         <extracomment>FloatFitWidth.title</extracomment>
-        <translation>FloatFitWidth</translation>
+        <translation>Плаваючий інструмент Ширина прилягання</translation>
     </message>
     <message id="FloatFitWidth.content">
         <source>FloatFitWidth</source>
@@ -227,7 +227,7 @@
     <message id="FloatFitSize.title">
         <source>FloatFitSize</source>
         <extracomment>FloatFitSize.title</extracomment>
-        <translation>FloatFitSize</translation>
+        <translation>Плаваючий інструмент Підібрати розмір</translation>
     </message>
     <message id="FloatFitSize.content">
         <source>FloatFitSize</source>
@@ -237,7 +237,7 @@
     <message id="FloatNavigationBar.title">
         <source>FloatNavigationBar</source>
         <extracomment>FloatNavigationBar.title</extracomment>
-        <translation>FloatNavigationBar</translation>
+        <translation>Плаваюча панель навігації</translation>
     </message>
     <message id="FloatNavigationBar.content">
         <source>FloatNavigationBar</source>
@@ -247,7 +247,7 @@
     <message id="FloatNavigationBar2.title">
         <source>FloatNavigationBar2</source>
         <extracomment>FloatNavigationBar2.title</extracomment>
-        <translation>FloatNavigationBar2</translation>
+        <translation>Плаваюча панель навігації 2</translation>
     </message>
     <message id="FloatNavigationBar2.content">
         <source>FloatNavigationBar2</source>
@@ -257,7 +257,7 @@
     <message id="FloatClose.title">
         <source>FloatClose</source>
         <extracomment>FloatClose.title</extracomment>
-        <translation>FloatClose</translation>
+        <translation>Плаваюча кнопка Закрити</translation>
     </message>
     <message id="FloatClose.content">
         <source>FloatClose</source>
@@ -267,7 +267,7 @@
     <message id="PDFToWord.title">
         <source>PDFToWord</source>
         <extracomment>PDFToWord.title</extracomment>
-        <translation>PDFToWord</translation>
+        <translation>PDF в Word</translation>
     </message>
     <message id="PDFToWord.content">
         <source>PDFToWord</source>
@@ -277,7 +277,7 @@
     <message id="MergePDF.title">
         <source>MergePDF</source>
         <extracomment>MergePDF.title</extracomment>
-        <translation>ЗлиттяPDF</translation>
+        <translation>Об&apos;єднати PDF</translation>
     </message>
     <message id="MergePDF.content">
         <source>MergePDF</source>
@@ -287,7 +287,7 @@
     <message id="SplitPDF.title">
         <source>SplitPDF</source>
         <extracomment>SplitPDF.title</extracomment>
-        <translation>SplitPDF</translation>
+        <translation>Розділити PDF</translation>
     </message>
     <message id="SplitPDF.content">
         <source>SplitPDF</source>
@@ -297,7 +297,7 @@
     <message id="ZoomPage.title">
         <source>ZoomPage</source>
         <extracomment>ZoomPage.title</extracomment>
-        <translation>ZoomPage</translation>
+        <translation>Збільшити сторінку</translation>
     </message>
     <message id="ZoomPage.content">
         <source>ZoomPage</source>
@@ -307,7 +307,7 @@
     <message id="ContinuousRead.title">
         <source>ContinuousRead</source>
         <extracomment>ContinuousRead.title</extracomment>
-        <translation>Постійне читання</translation>
+        <translation>Безперервне читання</translation>
     </message>
     <message id="ContinuousRead.content">
         <source>ContinuousRead</source>
@@ -327,7 +327,7 @@
     <message id="MenuHandTool.title">
         <source>MenuHandTool</source>
         <extracomment>MenuHandTool.title</extracomment>
-        <translation>Рука</translation>
+        <translation>Інструмент Рука</translation>
     </message>
     <message id="MenuHandTool.content">
         <source>MenuHandTool</source>
@@ -337,7 +337,7 @@
     <message id="MenuSelectionTool.title">
         <source>MenuSelectionTool</source>
         <extracomment>MenuSelectionTool.title</extracomment>
-        <translation>Виділення</translation>
+        <translation>Інструмент Вибір</translation>
     </message>
     <message id="MenuSelectionTool.content">
         <source>MenuSelectionTool</source>
@@ -347,7 +347,7 @@
     <message id="HighlightBorder.title">
         <source>HighlightBorder</source>
         <extracomment>HighlightBorder.title</extracomment>
-        <translation>HighlightBorder</translation>
+        <translation>Виділити межі</translation>
     </message>
     <message id="HighlightBorder.content">
         <source>HighlightBorder</source>
@@ -357,7 +357,7 @@
     <message id="NoteBorder.title">
         <source>NoteBorder</source>
         <extracomment>NoteBorder.title</extracomment>
-        <translation>NoteBorder</translation>
+        <translation>Примітка межі</translation>
     </message>
     <message id="NoteBorder.content">
         <source>NoteBorder</source>
@@ -377,7 +377,7 @@
     <message id="StrikeoutBorder.title">
         <source>StrikeoutBorder</source>
         <extracomment>StrikeoutBorder.title</extracomment>
-        <translation>Страйк-Бордюр</translation>
+        <translation>Видалити межу</translation>
     </message>
     <message id="StrikeoutBorder.content">
         <source>StrikeoutBorder</source>
@@ -387,7 +387,7 @@
     <message id="InsertBorder.title">
         <source>InsertBorder</source>
         <extracomment>InsertBorder.title</extracomment>
-        <translation>InsertBorder</translation>
+        <translation>Вставити межу</translation>
     </message>
     <message id="InsertBorder.content">
         <source>InsertBorder</source>
@@ -407,7 +407,7 @@
     <message id="AreaHighlight.title">
         <source>AreaHighlight</source>
         <extracomment>AreaHighlight.title</extracomment>
-        <translation>AreaHighlight</translation>
+        <translation>Область підсвічування</translation>
     </message>
     <message id="AreaHighlight.content">
         <source>AreaHighlight</source>
@@ -417,7 +417,7 @@
     <message id="FreeText.title">
         <source>FreeText</source>
         <extracomment>FreeText.title</extracomment>
-        <translation>Freetext</translation>
+        <translation>Довільний текст</translation>
     </message>
     <message id="FreeText.content">
         <source>FreeText</source>
@@ -427,7 +427,7 @@
     <message id="TextColor.title">
         <source>TextColor</source>
         <extracomment>TextColor.title</extracomment>
-        <translation>textcolor</translation>
+        <translation>Колір тексту</translation>
     </message>
     <message id="TextColor.content">
         <source>TextColor</source>
@@ -447,7 +447,7 @@
     <message id="InsertPages.title">
         <source>InsertPages</source>
         <extracomment>InsertPages.title</extracomment>
-        <translation>InsertPages</translation>
+        <translation>Вставити сторінки</translation>
     </message>
     <message id="InsertPages.content">
         <source>InsertPages</source>
@@ -457,7 +457,7 @@
     <message id="InsertBlankPages.title">
         <source>InsertBlankPages</source>
         <extracomment>InsertBlankPages.title</extracomment>
-        <translation>InsertBlankPages</translation>
+        <translation>Вставити порожні сторінки</translation>
     </message>
     <message id="InsertBlankPages.content">
         <source>InsertBlankPages</source>
@@ -467,7 +467,7 @@
     <message id="InsertPagesFromDoc.title">
         <source>InsertPagesFromDoc</source>
         <extracomment>InsertPagesFromDoc.title</extracomment>
-        <translation>InsertPagesFromDoc</translation>
+        <translation>Вставити сторінки з документа</translation>
     </message>
     <message id="InsertPagesFromDoc.content">
         <source>InsertPagesFromDoc</source>
@@ -487,7 +487,7 @@
     <message id="PlaySlide.title">
         <source>PlaySlide</source>
         <extracomment>PlaySlide.title</extracomment>
-        <translation>Презентація</translation>
+        <translation>Відтворити слайд</translation>
     </message>
     <message id="PlaySlide.content">
         <source>PlaySlide</source>
@@ -507,7 +507,7 @@
     <message id="PDFCompress.title">
         <source>PDFCompress</source>
         <extracomment>PDFCompress.title</extracomment>
-        <translation>PDFCompress</translation>
+        <translation>PDF стиснення</translation>
     </message>
     <message id="PDFCompress.content">
         <source>PDFCompress</source>
@@ -527,7 +527,7 @@
     <message id="AddImage.title">
         <source>AddImage</source>
         <extracomment>AddImage.title</extracomment>
-        <translation>AddImage</translation>
+        <translation>Додати зображення</translation>
     </message>
     <message id="AddImage.content">
         <source>AddImage</source>

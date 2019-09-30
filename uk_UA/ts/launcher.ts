@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Ласкаво просимо в офіс WPS</translation>
+        <translation>Ласкаво просимо в WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -18,15 +18,15 @@
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>Презентація</translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation>Електронні таблиці WPS</translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation>Створіть ярлики на робочому столі</translation>
+        <translation>Створити ярлики на робочому столі</translation>
     </message>
 </context>
 <context>

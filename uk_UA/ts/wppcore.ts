@@ -223,7 +223,7 @@
     <message>
         <source>Borders and Fill</source>
         <comment>ObjTable_BordersFill</comment>
-        <translation>Межі і заливка</translation>
+        <translation>Межі і заповнення</translation>
     </message>
     <message>
         <source>Split Cell</source>
@@ -736,7 +736,7 @@ Would you like to open this file?
     <message>
         <source>Slide Sorter</source>
         <comment>WP_SB_VIEW_SLIDESORTER</comment>
-        <translation>Сортувальник слайдів</translation>
+        <translation>Впорядкувальник слайдів</translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -1787,7 +1787,7 @@ Fifth level</source>
     <message>
         <source>Borders and Fill</source>
         <comment>WpFormatTable_BordersFill</comment>
-        <translation>Межі і заливка</translation>
+        <translation>Межі і заповнення</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -6055,7 +6055,7 @@ When converting to SmartArt graphics, any cell references previously applied to 
     <message>
         <source>Slide Sorter View</source>
         <comment>wpp_sSlideSorter</comment>
-        <translation>Режим сортувальника слайдів</translation>
+        <translation>Режим впорядкувальника слайдів</translation>
     </message>
     <message>
         <source>Slide %d</source>

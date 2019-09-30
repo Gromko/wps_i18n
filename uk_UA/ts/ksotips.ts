@@ -1286,7 +1286,7 @@ The ensures that selected chart element matches the overall theme of the documen
     <message id="ksoTextFill.title">
         <source>Text Fill</source>
         <extracomment>ksoTextFill.title</extracomment>
-        <translation>Текстова заливка</translation>
+        <translation>Текстове заповнення</translation>
     </message>
     <message id="ksoTextFill.content">
         <source>Fill the text with a solid color, gradient, picture, or texture.</source>

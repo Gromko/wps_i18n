@@ -1180,7 +1180,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Gradient Fill</source>
-        <translation>Градієнтна заливка</translation>
+        <translation>Градієнтне заповнення</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -1188,11 +1188,11 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Pattern Fill</source>
-        <translation>Заливка візерунка</translation>
+        <translation>Заповнення візерунком</translation>
     </message>
     <message>
         <source>texture Fill</source>
-        <translation>текстура заливка</translation>
+        <translation>візерунок заповнення</translation>
     </message>
 </context>
 <context>
@@ -1225,7 +1225,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Glow</source>
-        <translation>Заграва</translation>
+        <translation>Світіння</translation>
     </message>
 </context>
 <context>

@@ -3062,11 +3062,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Delete entire &amp;row</source>
-        <translation>Видалити всю рядок</translation>
+        <translation>Видалити весь рядок</translation>
     </message>
     <message>
         <source>Delete entire &amp;column</source>
-        <translation>Видалити весь стовпець</translation>
+        <translation>Видалити весь стовпчик</translation>
     </message>
     <message>
         <source>Delete Cells</source>
@@ -3077,7 +3077,7 @@ use buttons to apply borders</source>
     <name>KxDlgDocumentFields</name>
     <message>
         <source>DocumentField</source>
-        <translation>Document Field</translation>
+        <translation>Поле документу</translation>
     </message>
     <message>
         <source>DocumentField Name</source>

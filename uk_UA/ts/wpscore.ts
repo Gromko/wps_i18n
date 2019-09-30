@@ -7738,12 +7738,12 @@ Check</source>
     <message>
         <source>Medium Shading 1 Accent 2</source>
         <comment>TxTableStyle_MediumShading1Accent2</comment>
-        <translation>Середня заливка 1 - Акцент 2</translation>
+        <translation>Середнє заповнення 1 - Акцент 2</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 2</source>
         <comment>TxTableStyle_MediumShading2Accent2</comment>
-        <translation>Середня заливка 2 - Акцент 2</translation>
+        <translation>Середнє заповнення 2 - Акцент 2</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 2</source>
@@ -7778,7 +7778,7 @@ Check</source>
     <message>
         <source>Colorful Shading Accent 2</source>
         <comment>TxTableStyle_ColorfulShadingAccent2</comment>
-        <translation>Кольорова заливка - Акцент 2</translation>
+        <translation>Кольорове заповнення - Акцент 2</translation>
     </message>
     <message>
         <source>Colorful List Accent 2</source>
@@ -7793,7 +7793,7 @@ Check</source>
     <message>
         <source>Light Shading Accent 3</source>
         <comment>TxTableStyle_LightShadingAccent3</comment>
-        <translation>Світла заливка - Акцент 3</translation>
+        <translation>Світле заповнення - Акцент 3</translation>
     </message>
     <message>
         <source>Light List Accent 3</source>
@@ -7808,12 +7808,12 @@ Check</source>
     <message>
         <source>Medium Shading 1 Accent 3</source>
         <comment>TxTableStyle_MediumShading1Accent3</comment>
-        <translation>Середня заливка 1 - Акцент 3</translation>
+        <translation>Середнє заповнення 1 - Акцент 3</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 3</source>
         <comment>TxTableStyle_MediumShading2Accent3</comment>
-        <translation>Середня заливка 2 - Акцент 3</translation>
+        <translation>Середнє заповнення 2 - Акцент 3</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 3</source>
@@ -7848,7 +7848,7 @@ Check</source>
     <message>
         <source>Colorful Shading Accent 3</source>
         <comment>TxTableStyle_ColorfulShadingAccent3</comment>
-        <translation>Кольорова заливка - Акцент 3</translation>
+        <translation>Кольорове заповнення - Акцент 3</translation>
     </message>
     <message>
         <source>Colorful List Accent 3</source>
@@ -7863,7 +7863,7 @@ Check</source>
     <message>
         <source>Light Shading Accent 4</source>
         <comment>TxTableStyle_LightShadingAccent4</comment>
-        <translation>Світла заливка - Акцент 4</translation>
+        <translation>Світле заповнення - Акцент 4</translation>
     </message>
     <message>
         <source>Light List Accent 4</source>
@@ -7878,12 +7878,12 @@ Check</source>
     <message>
         <source>Medium Shading 1 Accent 4</source>
         <comment>TxTableStyle_MediumShading1Accent4</comment>
-        <translation>Середня заливка 1 - Акцент 4</translation>
+        <translation>Середнє заповнення 1 - Акцент 4</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 4</source>
         <comment>TxTableStyle_MediumShading2Accent4</comment>
-        <translation>Середня заливка 2 - Акцент 4</translation>
+        <translation>Середнє заповнення 2 - Акцент 4</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 4</source>
@@ -7918,7 +7918,7 @@ Check</source>
     <message>
         <source>Colorful Shading Accent 4</source>
         <comment>TxTableStyle_ColorfulShadingAccent4</comment>
-        <translation>Кольорова заливка - Акцент 4</translation>
+        <translation>Кольорове заповнення - Акцент 4</translation>
     </message>
     <message>
         <source>Colorful List Accent 4</source>
@@ -7933,7 +7933,7 @@ Check</source>
     <message>
         <source>Light Shading Accent 5</source>
         <comment>TxTableStyle_LightShadingAccent5</comment>
-        <translation>Світла заливка - Акцент 5</translation>
+        <translation>Світле заповнення - Акцент 5</translation>
     </message>
     <message>
         <source>Light List Accent 5</source>
@@ -7948,12 +7948,12 @@ Check</source>
     <message>
         <source>Medium Shading 1 Accent 5</source>
         <comment>TxTableStyle_MediumShading1Accent5</comment>
-        <translation>Середня заливка 1 - Акцент 5</translation>
+        <translation>Середнє заповнення 1 - Акцент 5</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 5</source>
         <comment>TxTableStyle_MediumShading2Accent5</comment>
-        <translation>Середня заливка 2 - Акцент 5</translation>
+        <translation>Середнє заповнення 2 - Акцент 5</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 5</source>
@@ -7988,7 +7988,7 @@ Check</source>
     <message>
         <source>Colorful Shading Accent 5</source>
         <comment>TxTableStyle_ColorfulShadingAccent5</comment>
-        <translation>Кольорова заливка - Акцент 5</translation>
+        <translation>Кольорове заповнення - Акцент 5</translation>
     </message>
     <message>
         <source>Colorful List Accent 5</source>
@@ -8003,7 +8003,7 @@ Check</source>
     <message>
         <source>Light Shading Accent 6</source>
         <comment>TxTableStyle_LightShadingAccent6</comment>
-        <translation>Світла заливка - Акцент 6</translation>
+        <translation>Світле заповнення - Акцент 6</translation>
     </message>
     <message>
         <source>Light List Accent 6</source>
@@ -8018,12 +8018,12 @@ Check</source>
     <message>
         <source>Medium Shading 1 Accent 6</source>
         <comment>TxTableStyle_MediumShading1Accent6</comment>
-        <translation>Середня заливка 1 - Акцент 6</translation>
+        <translation>Середнє заповнення 1 - Акцент 6</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 6</source>
         <comment>TxTableStyle_MediumShading2Accent6</comment>
-        <translation>Середня заливка 2 - Акцент 6</translation>
+        <translation>Середнє заповнення 2 - Акцент 6</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 6</source>
@@ -8058,7 +8058,7 @@ Check</source>
     <message>
         <source>Colorful Shading Accent 6</source>
         <comment>TxTableStyle_ColorfulShadingAccent6</comment>
-        <translation>Кольорова заливка - Акцент 6</translation>
+        <translation>Кольорове заповнення - Акцент 6</translation>
     </message>
     <message>
         <source>Colorful List Accent 6</source>

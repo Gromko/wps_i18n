@@ -1754,7 +1754,7 @@ Master</source>
     </message>
     <message>
         <source>Borders and Fill</source>
-        <translation>Межі і заливка</translation>
+        <translation>Межі і заповнення</translation>
     </message>
     <message>
         <source>Center Vertically</source>
@@ -2732,7 +2732,7 @@ Table Style</source>
     </message>
     <message>
         <source>Shading</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -2864,7 +2864,7 @@ Table Style</source>
     </message>
     <message>
         <source>Text Fill</source>
-        <translation>Заливка тексту</translation>
+        <translation>Заповнення тексту</translation>
     </message>
     <message>
         <source>Text Outline</source>
@@ -3541,7 +3541,7 @@ On</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Line</source>
@@ -4138,7 +4138,7 @@ On</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Outline</source>
@@ -5071,7 +5071,7 @@ Effects</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Find</source>
@@ -6355,7 +6355,7 @@ Number</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Line</source>
@@ -6687,7 +6687,7 @@ Pictures</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8704,7 +8704,7 @@ Direction</source>
     </message>
     <message>
         <source>Text Fill</source>
-        <translation>Заливка тексту</translation>
+        <translation>Заповнення тексту</translation>
     </message>
     <message>
         <source>Text Outline</source>
@@ -8909,7 +8909,7 @@ Master</source>
     <message>
         <source>Slide 
 Sorter</source>
-        <translation>Сортувальник слайдів</translation>
+        <translation>Впорядкувальник слайдів</translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -9460,7 +9460,7 @@ Spacing</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -11383,7 +11383,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>First Slide</source>
@@ -12404,7 +12404,7 @@ Master</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Line</source>
@@ -12472,7 +12472,7 @@ Master</source>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation>Сортувальник слайдів</translation>
+        <translation>Впорядкувальник слайдів</translation>
     </message>
     <message>
         <source>Slide Transition</source>
@@ -13366,7 +13366,7 @@ Master</source>
     <name>rainbow.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
-        <translation>Настроюється панель інструментів</translation>
+        <translation>Налаштована панель інструментів</translation>
     </message>
 </context>
 <context>
@@ -13848,7 +13848,7 @@ Template</source>
     </message>
     <message>
         <source>Shading</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -14474,7 +14474,7 @@ AddIns</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Line</source>
@@ -15998,7 +15998,7 @@ Slide</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Outline</source>
@@ -16642,7 +16642,7 @@ Number</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Line</source>
@@ -16944,7 +16944,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -18438,7 +18438,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation>Сортувальник слайдів</translation>
+        <translation>Впорядкувальник слайдів</translation>
     </message>
     <message>
         <source>Switch Window</source>
@@ -19178,7 +19178,7 @@ Effects</source>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -22640,7 +22640,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation>Сортувальник слайдів</translation>
+        <translation>Впорядкувальник слайдів</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -23150,23 +23150,23 @@ Slide</source>
     </message>
     <message>
         <source>MoreFill</source>
-        <translation>Додаткова заливка</translation>
+        <translation>Додаткове заповнення</translation>
     </message>
     <message>
         <source>MoreFontEffects</source>
-        <translation>Додаткові текстові ефекти</translation>
+        <translation>Додаткові ефекти шрифту</translation>
     </message>
     <message>
         <source>MoreFontFill</source>
-        <translation>Додаткова текстова заливка</translation>
+        <translation>Додаткове заповнення шрифту</translation>
     </message>
     <message>
         <source>MoreFontOutline</source>
-        <translation>Додаткові текстові структури</translation>
+        <translation>Додаткове виділення шрифту</translation>
     </message>
     <message>
         <source>MoreOutline</source>
-        <translation>Додаткові структури</translation>
+        <translation>Додаткове виділення</translation>
     </message>
     <message>
         <source>Motion Path</source>
@@ -23592,7 +23592,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Object in Slide Sorter</source>
-        <translation>Об&apos;єкт в режимі сортувальника слайдів</translation>
+        <translation>Об&apos;єкт в режимі впорядкувальника слайдів</translation>
     </message>
     <message>
         <source>Slide Object in Slide Sorter Popup Menu</source>
@@ -24336,7 +24336,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation>Сортувальник слайдів</translation>
+        <translation>Впорядкувальник слайдів</translation>
     </message>
     <message>
         <source>Player Capture</source>

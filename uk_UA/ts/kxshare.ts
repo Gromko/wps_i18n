@@ -589,7 +589,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>&amp;Custom</source>
-        <translation>Що настроюється</translation>
+        <translation>Налаштовано</translation>
     </message>
     <message>
         <source>Specify &amp;Value</source>
@@ -4071,7 +4071,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCustomRibbonEx_Group</name>
     <message>
         <source>Custom Group</source>
-        <translation>Настроюється група</translation>
+        <translation>Налаштована група</translation>
     </message>
 </context>
 <context>
@@ -4085,7 +4085,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCustomRibbonEx_Tab</name>
     <message>
         <source>Custom Tab</source>
-        <translation>Настроюється вкладка</translation>
+        <translation>Налаштована вкладка</translation>
     </message>
 </context>
 <context>
@@ -11211,7 +11211,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Заливка зображенням</translation>
+        <translation>Заповнення зображенням</translation>
     </message>
     <message>
         <source>Select Picture...</source>
@@ -15604,7 +15604,7 @@ After login, you can also manage, delete, and share the link to others.</transla
     </message>
     <message>
         <source>Preset</source>
-        <translation>Заготовка</translation>
+        <translation>Заготовки</translation>
     </message>
 </context>
 <context>

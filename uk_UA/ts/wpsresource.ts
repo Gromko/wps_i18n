@@ -30275,11 +30275,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Custom StatusBar</source>
-        <translation>Настроюється рядок стану</translation>
+        <translation>Налаштований рядок стану</translation>
     </message>
     <message>
         <source>Custom Style</source>
-        <translation>Призначений користувачем стиль</translation>
+        <translation>Налаштований стиль</translation>
     </message>
     <message>
         <source>Cut</source>

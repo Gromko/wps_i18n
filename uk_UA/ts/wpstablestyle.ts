@@ -15,11 +15,11 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Виділення </translation>
+        <translation>Підкреслити</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation>1</translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>2-</source>
-        <translation>2</translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light Color Style</source>
@@ -95,11 +95,11 @@
     </message>
     <message>
         <source>Light Style</source>
-        <translation>Стиль світлий</translation>
+        <translation>Світлий стиль</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation>Стиль помірний</translation>
+        <translation>Середній стиль</translation>
     </message>
     <message>
         <source>Dark Style</source>
@@ -111,15 +111,15 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Темний стиль 2 - виділення 1/виділення 2</translation>
+        <translation>Темний стиль 2-Підкреслити 1/Підкреслити 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Темний стиль 2 - виділення 3/виділення 4</translation>
+        <translation>Темний стиль 2-Підкреслити 3/Підкреслити 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Темний стиль 2 - виділення 5/виділення 6</translation>
+        <translation>Темний стиль 2-Підкреслити 5/Підкреслити 6</translation>
     </message>
 </context>
 <context>
@@ -138,11 +138,11 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Виділення </translation>
+        <translation>Підкреслити</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation>1</translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
@@ -150,7 +150,7 @@
     </message>
     <message>
         <source>2-</source>
-        <translation>2</translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light Color Style</source>
@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>Best Match</source>
-        <translation>Найбільш підходящий</translation>
+        <translation>Найбільш відповідний</translation>
     </message>
     <message>
         <source>Washy</source>
@@ -210,11 +210,11 @@
     </message>
     <message>
         <source>Light Style</source>
-        <translation>Стиль світлий</translation>
+        <translation>Світлий стиль</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation>Стиль помірний</translation>
+        <translation>Середній стиль</translation>
     </message>
     <message>
         <source>Dark Style</source>
@@ -226,15 +226,15 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Темний стиль 2 - виділення 1/виділення 2</translation>
+        <translation>Темний стиль 2-Підкреслити 1/Підкреслити 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Темний стиль 2 - виділення 3/виділення 4</translation>
+        <translation>Темний стиль 2-Підкреслити 3/Підкреслити 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Темний стиль 2 - виділення 5/виділення 6</translation>
+        <translation>Темний стиль 2-Підкреслити 5/Підкреслити 6</translation>
     </message>
     <message>
         <source>First Row</source>
@@ -274,7 +274,7 @@
     </message>
     <message>
         <source>Medium</source>
-        <translation>Помірний</translation>
+        <translation>Середній</translation>
     </message>
     <message>
         <source>Dark</source>
@@ -285,7 +285,7 @@
     <name>KxStylesPanel</name>
     <message>
         <source>Best Match</source>
-        <translation>Найбільш підходящий</translation>
+        <translation>Найбільш відповідний</translation>
     </message>
     <message>
         <source>Washy</source>
@@ -337,7 +337,7 @@
     </message>
     <message>
         <source>Medium</source>
-        <translation>Помірний</translation>
+        <translation>Середній</translation>
     </message>
     <message>
         <source>Dark</source>

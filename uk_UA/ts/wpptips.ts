@@ -1683,12 +1683,12 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="SlideSorter.title">
         <source>Slide Sorter View</source>
         <extracomment>SlideSorter.title</extracomment>
-        <translation>Вигляд сортування слайдів</translation>
+        <translation>Вигляд впорядкування слайдів</translation>
     </message>
     <message id="SlideSorter.content">
         <source>View the presentation in Slide Sorter view to easily rearrange slides.</source>
         <extracomment>SlideSorter.content</extracomment>
-        <translation>Перегляньте презентацію в режимі сортування слайдів, щоб легко переставляти слайди.</translation>
+        <translation>Перегляньте презентацію в режимі впорядкування слайдів, щоб легко переставляти слайди.</translation>
     </message>
     <message id="SlideTransition.title">
         <source>Slide Transition</source>
@@ -3079,7 +3079,7 @@ SmartArt graphics range from graphical lists and process diagrams to more comple
     <message id="GraphicFill.title">
         <source>Graphic Fill</source>
         <extracomment>GraphicFill.title</extracomment>
-        <translation>Графічна заливка</translation>
+        <translation>Графічне заповнення</translation>
     </message>
     <message id="GraphicFill.content">
         <source>Fill the selected graphic with a solid color.

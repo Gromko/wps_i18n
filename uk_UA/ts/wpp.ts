@@ -3116,11 +3116,11 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
     </message>
     <message>
         <source>Hori&amp;zontal</source>
-        <translation>Горизонтальна</translation>
+        <translation>Горизонтально</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation>Вертикальна</translation>
+        <translation>Вертикально</translation>
     </message>
     <message>
         <source>&amp;Frame slides</source>

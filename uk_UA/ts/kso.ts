@@ -5140,7 +5140,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Sort</source>
         <comment>DRAWINGSTR_FLOWCHARTSORT</comment>
-        <translation>Блок-схема: сортування</translation>
+        <translation>Блок-схема: впорядкування</translation>
     </message>
     <message>
         <source>Flowchart: Extract</source>
@@ -5455,7 +5455,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Action Button: Custom</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBLANK</comment>
-        <translation>Керуюча кнопка: настроюється</translation>
+        <translation>Керуюча кнопка: Налаштована</translation>
     </message>
     <message>
         <source>Action Button: Home</source>

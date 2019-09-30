@@ -538,7 +538,7 @@
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>Заливка кольором</translation>
+        <translation>Заповнення кольором</translation>
     </message>
     <message>
         <source>Fill Effects</source>
@@ -574,7 +574,7 @@
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Горизонтальна</translation>
+        <translation>Горизонтально</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -976,7 +976,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>Заливка кольором</translation>
+        <translation>Заповнення кольором</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1392,7 +1392,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Sort and Top 10</source>
-        <translation>Сортування й десятка кращих</translation>
+        <translation>Впорядкування й десятка кращих</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -2753,7 +2753,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Fill Popup Menu</source>
@@ -2850,7 +2850,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Приховувати поточне вікно при скріншоті</translation>
+        <translation>Приховувати поточне вікно при знімку екрану</translation>
     </message>
     <message>
         <source>Hide While Grabbing Screen</source>
@@ -2879,7 +2879,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Горизонтальна</translation>
+        <translation>Горизонтально</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -3679,7 +3679,7 @@ Window</source>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>Заливка кольором</translation>
+        <translation>Заповнення кольором</translation>
     </message>
     <message>
         <source>Format as Table</source>
@@ -5689,7 +5689,7 @@ All</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -6395,7 +6395,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Outline</source>
@@ -6718,7 +6718,7 @@ On/Off</source>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Горизонтальна</translation>
+        <translation>Горизонтально</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -6802,7 +6802,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Outline</source>
@@ -6842,7 +6842,7 @@ On/Off</source>
     </message>
     <message>
         <source>Text Fill</source>
-        <translation>Заливка тексту</translation>
+        <translation>Заповнення тексту</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -7712,7 +7712,7 @@ Center</source>
     </message>
     <message>
         <source>Custom Sort</source>
-        <translation>настроюється, сортування</translation>
+        <translation>Налаштоване впорядкування</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -7804,11 +7804,11 @@ Center</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>Заливка кольором</translation>
+        <translation>Заповнення кольором</translation>
     </message>
     <message>
         <source>Fill Series</source>
@@ -8224,7 +8224,7 @@ Columns</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -9457,7 +9457,7 @@ Size</source>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Заливка зображення</translation>
+        <translation>Заповнення зображення</translation>
     </message>
     <message>
         <source>Picture Outline</source>
@@ -9929,7 +9929,7 @@ On/Off</source>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Заливка зображення</translation>
+        <translation>Заповнення зображення</translation>
     </message>
     <message>
         <source>Picture Outline</source>
@@ -11306,7 +11306,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Text Fill</source>
-        <translation>Заливка тексту</translation>
+        <translation>Заповнення тексту</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
@@ -12368,7 +12368,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -13973,11 +13973,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>Заливка кольором</translation>
+        <translation>Заповнення кольором</translation>
     </message>
     <message>
         <source>Fill Days</source>
@@ -15113,7 +15113,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Outline</source>
@@ -15182,7 +15182,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Split</source>
@@ -15610,7 +15610,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Custom Sort</source>
-        <translation>настроюється, сортування</translation>
+        <translation>Налаштоване впорядкування</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -15851,7 +15851,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>PTCustom Sort</source>
-        <translation>настроюється, сортування PT</translation>
+        <translation>Налаштоване впорядкування PT</translation>
     </message>
     <message>
         <source>Paste as Formatted Text</source>
@@ -15893,11 +15893,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Rank Largest to Smallest</source>
-        <translation>Сортування від максимального до мінімального</translation>
+        <translation>Впорядкування від максимального до мінімального</translation>
     </message>
     <message>
         <source>Rank Smallest to Largest</source>
-        <translation>Сортування від мінімального до максимального</translation>
+        <translation>Впорядкування від мінімального до максимального</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -15965,11 +15965,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Sort Largest to Smallest</source>
-        <translation>Сортувати від найбільшого до найменшого</translation>
+        <translation>Впорядкувати від найбільшого до найменшого</translation>
     </message>
     <message>
         <source>Sort Smallest to Largest</source>
-        <translation>Сортувати від найменшого до найбільшого</translation>
+        <translation>Впорядкувати від найменшого до найбільшого</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -16845,7 +16845,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Sort &amp; Filter</source>
@@ -16861,7 +16861,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Sort and Filter</source>
-        <translation>Сортування й фільтр</translation>
+        <translation>Впорядкування й фільтр</translation>
     </message>
     <message>
         <source>Subtotal</source>
@@ -17424,7 +17424,7 @@ AddIns</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Outline</source>
@@ -17743,7 +17743,7 @@ AddIns</source>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Горизонтальна</translation>
+        <translation>Горизонтально</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -17827,7 +17827,7 @@ AddIns</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message>
         <source>Shape Outline</source>
@@ -17871,7 +17871,7 @@ AddIns</source>
     </message>
     <message>
         <source>Text Fill</source>
-        <translation>Заливка тексту</translation>
+        <translation>Заповнення тексту</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -18634,7 +18634,7 @@ Manager</source>
     </message>
     <message>
         <source>Custom Sort</source>
-        <translation>настроюється, сортування</translation>
+        <translation>Налаштоване впорядкування</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -18726,11 +18726,11 @@ Manager</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>Заливка кольором</translation>
+        <translation>Заповнення кольором</translation>
     </message>
     <message>
         <source>Fill Series</source>
@@ -19070,7 +19070,7 @@ Center</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -20002,7 +20002,7 @@ Size</source>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Заливка зображення</translation>
+        <translation>Заповнення зображення</translation>
     </message>
     <message>
         <source>Picture Outline</source>
@@ -20415,7 +20415,7 @@ Size</source>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Заливка зображення</translation>
+        <translation>Заповнення зображення</translation>
     </message>
     <message>
         <source>Picture Outline</source>
@@ -21586,7 +21586,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Text Fill</source>
-        <translation>Заливка тексту</translation>
+        <translation>Заповнення тексту</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
@@ -22498,7 +22498,7 @@ Color</source>
     </message>
     <message>
         <source>WordArt Shape Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>WordArt Shape Outline</source>
@@ -27387,7 +27387,7 @@ Item Labels</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Subtotals</source>

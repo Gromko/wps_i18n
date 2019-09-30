@@ -819,7 +819,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     <message id="FillColor.title">
         <source>Shape Fill</source>
         <extracomment>FillColor.title</extracomment>
-        <translation>Заливка фігури</translation>
+        <translation>Заповнення фігури</translation>
     </message>
     <message id="FillColor.content">
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
@@ -3949,7 +3949,7 @@ SmartArt graphics range from graphical lists and process diagrams to more comple
     <message id="Sort.title">
         <source>Sort</source>
         <extracomment>Sort.title</extracomment>
-        <translation>Сортувати</translation>
+        <translation>Впорядкувати</translation>
     </message>
     <message id="Sort.content">
         <source>Arrange the current selection in alphabetical or numerical order.

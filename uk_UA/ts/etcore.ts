@@ -2282,7 +2282,7 @@ Note that data links can be used to access and share confidential information wi
     <message>
         <source>The merged cells cannot be sorted.</source>
         <comment>TX_MergedCell_InRange</comment>
-        <translation>Об&apos;єднані комірки не можуть бути відсортовані.</translation>
+        <translation>Об&apos;єднані комірки не можуть бути впорядковані.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
@@ -2322,7 +2322,7 @@ Note that data links can be used to access and share confidential information wi
     <message>
         <source>The sort reference is not valid. Make sure that it&apos;s within the data you want to sort, and the first Sort By box is not the same and not blank.</source>
         <comment>TX_ERROR_SortKey</comment>
-        <translation>Неприпустима посилання для сортування. Переконайтеся, що вона вказує на дані, які потрібно впорядкувати, і що в першому полі &apos;&apos;Сортувати по &apos;&apos;вказано допустиме значення.</translation>
+        <translation>Неприпустиме посилання для впорядкування. Переконайтеся, що воно вказує на дані, які потрібно впорядкувати, і що в першому полі &apos;&apos;Впорядкувати по &apos;&apos;вказано допустиме значення.</translation>
     </message>
     <message>
         <source>General errors occur during formula compiling.</source>
@@ -4495,15 +4495,15 @@ Modify the source data</source>
     </message>
     <message>
         <source>The Remove Arrows command found no tracer arrows to remove.</source>
-        <translation>При виконанні командиПрибрати стрілкине виявлено стрілок трасування для видалення.</translation>
+        <translation>При виконанні команди &quot;Прибрати стрілки&quot; не виявлено стрілок трасування для видалення.</translation>
     </message>
     <message>
         <source>The Trace Precedents command requires that the active cell contains a formula which includes valid references.</source>
-        <translation>Для команди Комірки що впливають потрібно, щоб активна комірка містила формулу, що включає посилання на інші комірки.</translation>
+        <translation>Для команди &quot;Комірки що впливають&quot; потрібно, щоб активна комірка містила формулу, що включає посилання на інші комірки.</translation>
     </message>
     <message>
         <source>The Trace Dependents command found no formulas that refer to the active cell.</source>
-        <translation>При виконанні командиЗалежні коміркине виявлено формул, що включають посилання на активну комірку.</translation>
+        <translation>При виконанні команди &quot;Залежні комірки&quot; не виявлено формул, що включають посилання на активну комірку.</translation>
     </message>
     <message>
         <source>Content cannot contain &quot;,&quot;.</source>
@@ -5167,7 +5167,7 @@ To make a copy that you can edit and rearrage, in the same instance of Et, paste
     <message>
         <source>Cannot determine which PivotTable field to sort by.</source>
         <comment>TX_PIVOT_CANNOT_SORT</comment>
-        <translation>Неможливо визначити, яке поле Зведеної таблиці буде відсортоване.</translation>
+        <translation>Неможливо визначити, яке поле Зведеної таблиці буде впорядковане.</translation>
     </message>
     <message>
         <source>We can&apos;t make this change for the selected cells because it will affect a PivotTable. Use the field list to chage the report. If you are trying to inset or delete cells, move the PivotTable and try again.</source>
@@ -5873,7 +5873,7 @@ Check that the cell references, range names, defined names and links to other wo
     <message>
         <source>The sort operation will not be undone due to insufficient available resources. Do you want to continue?</source>
         <comment>TX_INADEQUATE_RESOURCES_DISABLE_UNDO</comment>
-        <translation>Операція сортування не буде скасована через недостатню кількість наявних ресурсів. Хочете продовжити?</translation>
+        <translation>Операція впорядкування не буде скасована через недостатню кількість наявних ресурсів. Хочете продовжити?</translation>
     </message>
     <message>
         <source>There are some empty string</source>
@@ -7163,7 +7163,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     <message>
         <source>Sort by</source>
         <comment>TX_ETDBE_FLTR_ORDER</comment>
-        <translation>Сортувати</translation>
+        <translation>Впорядкувати</translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -7431,7 +7431,7 @@ Click &quot;Add to the list&quot; after setting up sorting condition in the righ
 Notice: if the second operand queries the number as text, single quotes should be added at both the beginning and the ending manually.</source>
         <comment>TX_ETDBE_STR_ADV_QUERY_PROMPT</comment>
         <translation>Виберіть поля з лівого списку, а потім натисніть &quot;Додати до списку&quot;.
-Натисніть &quot;Додати до списку&quot; після налаштування умови сортування у правильному списку.
+Натисніть &quot;Додати до списку&quot; після налаштування умови впорядкування у правильному списку.
 Зверніть увагу: якщо другий операнд запитує номер як текст, слід вручну додати одинарні лапки як на початку, так і наприкінці.</translation>
     </message>
     <message>
@@ -10703,7 +10703,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)</source>
         <comment>SUMIFS_SYNTAX</comment>
-        <translation>СУММЕСЛІМН(діапазон_сумми, діапазон_условій1, умова1, [діапазон_умови2, умова2], ...)</translation>
+        <translation>SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)</translation>
     </message>
     <message>
         <source>Adds the cells specified by a given set of conditions or criteria.</source>
@@ -15698,7 +15698,7 @@ Check</source>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in accending order) = TRUE or omitted; find an exact match = FALSE.</source>
         <comment>TX_ParaDesc_164</comment>
-        <translation>логічне значення, що визначає, точно(БРЕХНЯ) або наближено(ІСТИНА або відсутність значення) повинен проводитися пошук у верхньому рядку(відсортованої по зростанню).</translation>
+        <translation>логічне значення, що визначає, точно(БРЕХНЯ) або наближено(ІСТИНА або відсутність значення) повинен проводитися пошук у верхньому рядку(впорядкованої по зростанню).</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
@@ -16463,7 +16463,7 @@ Check</source>
     <message>
         <source>is a number: rank in the list sorted descending = 0 or omitted; rank in the list sorted ascending = any nonzero value.</source>
         <comment>TX_ParaDesc_317</comment>
-        <translation>число: місця в списку упорядковано відповідно до зменшенням = 0 або відсутній; місця в списку відсортовані по зростанню = будь нульове значення.</translation>
+        <translation>число: місця в списку упорядковано відповідно до зменшенням = 0 або відсутній; місця в списку впорядковані по зростанню = будь нульове значення.</translation>
     </message>
     <message>
         <source>is the total number of payment periods for the loan or investment.</source>
@@ -17038,7 +17038,7 @@ Check</source>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
         <comment>TX_ParaDesc_432</comment>
-        <translation>логічне значення, що визначає, точно(БРЕХНЯ) або наближено(ІСТИНА або відсутність значення) повинен проводитися пошук у верхньому рядку(відсортованої по зростанню).</translation>
+        <translation>логічне значення, що визначає, точно(БРЕХНЯ) або наближено(ІСТИНА або відсутність значення) повинен проводитися пошук у верхньому рядку(впорядкованої по зростанню).</translation>
     </message>
     <message>
         <source>is the number that represents a date.</source>
@@ -20075,7 +20075,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>Sort</source>
         <comment>TX_Undo_DataSort</comment>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -20257,7 +20257,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>Fill Color</source>
         <comment>TX_Undo_FillColor</comment>
-        <translation>Заливка кольором</translation>
+        <translation>Заповнення кольором</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -21192,7 +21192,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>Fill</source>
         <comment>et_sFill</comment>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>&amp;Find/Replace...</source>
@@ -21287,7 +21287,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
         <comment>et_sHint</comment>
-        <translation>Додаток WPS Spreadsheets виявило дані поряд з виділеним діапазоном. Оскільки ці дані не були виділені, вони не будуть відсортовані.</translation>
+        <translation>Додаток WPS Spreadsheets виявило дані поряд з виділеним діапазоном. Оскільки ці дані не були виділені, вони не будуть впорядковані.</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -21884,7 +21884,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Sort and Display</source>
         <comment>et_sSortAndDisplayCaption</comment>
-        <translation>Сортувати й показати</translation>
+        <translation>Впорядкувати й показати</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -21903,11 +21903,11 @@ the category you want, and then choose the other options.</source>
 %s There are two same sort references. 
 %s The sort reference you entered is not within the current selection.</source>
         <comment>et_sSortReferenceNotValidError</comment>
-        <translation>Посилання сортування недійсна по одній з можливих причин: 
+        <translation>Посилання впорядкування недійсне по одній з можливих причин: 
 
-%s порожнє перше поле Сортувати по; 
-%s два однакові посилання сортування;
-%s введена посилання сортування не знаходиться в поточному виділенні.</translation>
+%s порожнє перше поле Впорядкувати по; 
+%s два однакові посилання впорядкування;
+%s введене посилання впорядкування не знаходиться в поточному виділенні.</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
@@ -21917,7 +21917,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>&amp;Start date:</source>
         <comment>et_sStartDate</comment>
-        <translation>Дата на&amp;чала:</translation>
+        <translation>Дата початку</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>

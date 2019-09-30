@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>&amp;Add to the list</source>
@@ -261,11 +261,11 @@
     <name>FilterPageUi</name>
     <message>
         <source>The third step: Data filtering and sorting</source>
-        <translation>Третій крок: фільтрація даних і сортування</translation>
+        <translation>Третій крок: фільтрація даних і впорядкування</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>By</source>
@@ -297,7 +297,7 @@
     </message>
     <message>
         <source>You can click Advanced Query to sort and filter more complicated data, if it still cannot satisfy your requirement, you can input the query statement directly.</source>
-        <translation>Виберіть функцію &quot;Розширений запит &quot;для сортування та відбору більш складних даних, і якщо цього виявиться недостатньо, можна ввести запит безпосередньо.</translation>
+        <translation>Виберіть функцію &quot;Розширений запит &quot;для впорядкування та відбору більш складних даних, і якщо цього виявиться недостатньо, можна ввести запит безпосередньо.</translation>
     </message>
 </context>
 <context>
@@ -724,7 +724,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Color Sort</source>
-        <translation>Сортувати за кольором</translation>
+        <translation>Впорядкувати за кольором</translation>
     </message>
     <message>
         <source>Number Filter</source>
@@ -864,7 +864,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Sort by cell color and font color</source>
-        <translation>Сортування за кольором комірки і кольором шрифту</translation>
+        <translation>Впорядкування за кольором комірки і кольором шрифту</translation>
     </message>
     <message>
         <source>Export List</source>
@@ -2957,19 +2957,19 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>&amp;Filter the list, in-place</source>
-        <translation>&amp;Фільтрувати список на місці</translation>
+        <translation>Фільтрувати список на місці</translation>
     </message>
     <message>
         <source>C&amp;opy to another location</source>
-        <translation>Копіювати результат в&amp;інше місце</translation>
+        <translation>Копіювати результат в інше місце</translation>
     </message>
     <message>
         <source>&amp;List range:</source>
-        <translation>Діапазон&amp;списку:</translation>
+        <translation>Діапазон списку:</translation>
     </message>
     <message>
         <source>&amp;Criteria range:</source>
-        <translation>Діапазон услови&amp;й:</translation>
+        <translation>Діапазон умов:</translation>
     </message>
     <message>
         <source>Copy &amp;to:</source>
@@ -2989,7 +2989,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Extending range may co&amp;ver the original data</source>
-        <translation>Розширення діапазону може перевати вихідні дані.</translation>
+        <translation>Розширення діапазону може перекривати вихідні дані.</translation>
     </message>
 </context>
 <context>
@@ -5513,7 +5513,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Chart fills:</source>
-        <translation>Заливка діаграми:</translation>
+        <translation>Заповнення діаграми:</translation>
     </message>
     <message>
         <source>Chart lines:</source>
@@ -6923,7 +6923,7 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
     </message>
     <message>
         <source>Sorting</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Use Custom &amp;Lists when sorting</source>
@@ -6979,7 +6979,7 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
     </message>
     <message>
         <source>Sort in data source orde&amp;r</source>
-        <translation>Сортувати як в джерелі даних (&amp;r)</translation>
+        <translation>Впорядкувати як в джерелі даних (&amp;r)</translation>
     </message>
     <message>
         <source>Data</source>
@@ -7255,7 +7255,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Use AutoFilter</source>
@@ -7368,7 +7368,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>&amp;Continue with the current selection</source>
-        <translation>&amp;Сортувати у межах зазначеного виділення</translation>
+        <translation>&amp;Впорядкувати у межах зазначеного виділення</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates...</source>
@@ -7672,7 +7672,7 @@ This also allows workbook merging.</source>
     <name>KxDlgSort</name>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Sort by</source>
@@ -7794,7 +7794,7 @@ This also allows workbook merging.</source>
     <name>KxDlgSortOptions</name>
     <message>
         <source>Sort Options</source>
-        <translation>Параметри сортування</translation>
+        <translation>Параметри впорядкування</translation>
     </message>
     <message>
         <source>C&amp;ustom sort order</source>
@@ -8030,7 +8030,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Replace &amp;current subtotals</source>
@@ -12225,11 +12225,11 @@ and only one row can be kept.</source>
 %1 The first Sort By box is blank. 
 %2 There are two same sort references. 
 %3 The sort reference you entered is not within the current selection.</source>
-        <translation>Посилання сортування недійсна по одній з можливих причин: 
+        <translation>Посилання впорядкування недійсне по одній з можливих причин: 
 
-%1 порожнє перше поле&apos;&apos;Сортувати по &apos;; 
-%2 два однакові посилання сортування;
-%3 введена посилання сортування не знаходиться в поточному виділенні.</translation>
+%1 порожнє перше поле&apos;&apos;Впорядкувати по &apos;; 
+%2 два однакові посилання впорядкування;
+%3 введене посилання впорядкування не знаходиться в поточному виділенні.</translation>
     </message>
     <message>
         <source>Column</source>
@@ -12237,7 +12237,7 @@ and only one row can be kept.</source>
     </message>
     <message>
         <source>Sort On</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Order</source>
@@ -12304,7 +12304,7 @@ and only one row can be kept.</source>
     <name>KxSortKeyWidget</name>
     <message>
         <source>Sort by</source>
-        <translation>Сортувати</translation>
+        <translation>Впорядкувати</translation>
     </message>
     <message>
         <source>Then by</source>
@@ -13849,7 +13849,7 @@ t</source>
     <name>KxWidgetPatterns</name>
     <message>
         <source>Cell shading</source>
-        <translation>Заливка комірок</translation>
+        <translation>Заповнення комірок</translation>
     </message>
     <message>
         <source>Background color:</source>
@@ -14086,7 +14086,7 @@ t</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнення</translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>
@@ -14790,19 +14790,19 @@ t</source>
     </message>
     <message>
         <source>The sort reference is not valid. Make sure that it&apos;s within the data you want to sort, and the first Sort By box isn&apos;t the same or blank.</source>
-        <translation>Неприпустима посилання для сортування. Переконайтеся, що вона вказує на дані, які потрібно впорядкувати, і що в першому полі &quot;Сортувати по &quot;вказано допустиме значення(не ідентичні і не пусте).</translation>
+        <translation>Неприпустима посилання для впорядкування. Переконайтеся, що вона вказує на дані, які потрібно впорядкувати, і що в першому полі &quot;Впорядкувати по &quot;вказано допустиме значення(не ідентичні і не пусте).</translation>
     </message>
     <message>
         <source>Sort %1 in %2 order</source>
-        <translation>Сортувати %1 %2</translation>
+        <translation>Впорядкувати %1 %2</translation>
     </message>
     <message>
         <source>Sort %1 by %2 in %3 order</source>
-        <translation>Сортувати %1 по %2 і %3</translation>
+        <translation>Впорядкувати %1 по %2 і %3</translation>
     </message>
     <message>
         <source>Sort %1 for %2 by %3 in %4 order</source>
-        <translation>Сортувати %1 до %2 по %3 і %4</translation>
+        <translation>Впорядкувати %1 до %2 по %3 і %4</translation>
     </message>
     <message>
         <source> using values in this %1:
@@ -15425,7 +15425,7 @@ p, li { white-space: pre-wrap; }</translation>
     </message>
     <message>
         <source>Custom...</source>
-        <translation>Настроюється ...</translation>
+        <translation>Налаштовано ...</translation>
     </message>
     <message>
         <source>&amp;Left Margin</source>
@@ -15461,7 +15461,7 @@ p, li { white-space: pre-wrap; }</translation>
     </message>
     <message>
         <source>&amp;Wrap text in shape</source>
-        <translation>Перенось&amp;ть текст у фігурі за словами</translation>
+        <translation>Переносити текст у фігурі за словами</translation>
     </message>
     <message>
         <source>&amp;Columns...</source>
@@ -15519,7 +15519,7 @@ p, li { white-space: pre-wrap; }</translation>
     </message>
     <message>
         <source>E&amp;valuation:</source>
-        <translation>Ви&amp;чисельність:</translation>
+        <translation>Обчислення:</translation>
     </message>
     <message>
         <source>&amp;Evaluate</source>
@@ -16312,7 +16312,7 @@ or Web Page</source>
     <name>sortWarning</name>
     <message>
         <source>Sort Warning</source>
-        <translation>Попередження сортування</translation>
+        <translation>Попередження впорядкування</translation>
     </message>
     <message>
         <source>What do you want to do?</source>
@@ -16324,11 +16324,11 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Continue with the current selection</source>
-        <translation>&amp;Сортувати у межах зазначеного виділення</translation>
+        <translation>&amp;Впорядкувати у межах зазначеного виділення</translation>
     </message>
     <message>
         <source>&amp;Sort</source>
-        <translation>&amp;Сортувати</translation>
+        <translation>&amp;Впорядкувати</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -16336,7 +16336,7 @@ or Web Page</source>
     </message>
     <message>
         <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <translation>Додаток WPS Spreadsheets виявило дані поряд з виділеним діапазоном. Оскільки ці дані не були виділені, вони не будуть відсортовані.</translation>
+        <translation>Додаток WPS Spreadsheets виявило дані поряд з виділеним діапазоном. Оскільки ці дані не були виділені, вони не будуть впорядковані.</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
@@ -16421,11 +16421,11 @@ Do you want to change to Manual?</source>
     <name>KOptionColorShowWidget</name>
     <message>
         <source>Choose the cell color as a sort on:</source>
-        <translation>Виберіть колір комірки для сортування:</translation>
+        <translation>Виберіть колір комірки для впорядкування:</translation>
     </message>
     <message>
         <source>Choose the font color as a sort on:</source>
-        <translation>Виберіть колір шрифту для сортування:</translation>
+        <translation>Виберіть колір шрифту для впорядкування:</translation>
     </message>
     <message>
         <source>No Fill</source>
@@ -16489,7 +16489,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Other Sort Item</source>
-        <translation>Інший елемент сортування</translation>
+        <translation>Інший елемент впорядкування</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -16896,11 +16896,11 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Sort Count Descent</source>
-        <translation>Сортувати по кількості (по спадаючій)</translation>
+        <translation>Впорядкувати по кількості (по спадаючій)</translation>
     </message>
     <message>
         <source>Sort Label Ascent</source>
-        <translation>Сортувати по мітках (по зростанню)</translation>
+        <translation>Впорядкувати по мітках (по зростанню)</translation>
     </message>
     <message>
         <source>RENEW</source>
@@ -17053,7 +17053,7 @@ Do you want to change to Manual?</source>
     <name>KxAutofilterColorSortCommand</name>
     <message>
         <source>Custom Sort...</source>
-        <translation>настроюється, сортування...</translation>
+        <translation>Налаштоване впорядкування...</translation>
     </message>
 </context>
 <context>
@@ -17385,7 +17385,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>&amp;Fill</source>
-        <translation>&amp;Заливка</translation>
+        <translation>&amp;Заповнення</translation>
     </message>
     <message>
         <source>&amp;Color</source>
@@ -17401,11 +17401,11 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Solid Fill</source>
-        <translation>Хмарно заливка</translation>
+        <translation>Суцільне заповнення</translation>
     </message>
     <message>
         <source>Gradient Fill</source>
-        <translation>Градієнтний заливка</translation>
+        <translation>Градієнтне заповнення</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -17413,7 +17413,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Solid Border</source>
-        <translation>Хмарно межа</translation>
+        <translation>Суцільна межа</translation>
     </message>
     <message>
         <source>&amp;Negative Value and Axis...</source>
@@ -17925,19 +17925,19 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Light Red Fill with Dark Red Text</source>
-        <translation>Світло-червона заливка і темно-червоний текст</translation>
+        <translation>Світло-червоне заповнення і темно-червоний текст</translation>
     </message>
     <message>
         <source>Yellow Fill with Dark Yellow Text</source>
-        <translation>Жовта заливка і темно-жовтий текст</translation>
+        <translation>Жовте заповнення і темно-жовтий текст</translation>
     </message>
     <message>
         <source>Green Fill with Dark Green Text</source>
-        <translation>Зелена заливка і темно-зелений текст</translation>
+        <translation>Зелене заповнення і темно-зелений текст</translation>
     </message>
     <message>
         <source>Light Red Fill</source>
-        <translation>Світло-червона заливка</translation>
+        <translation>Світло-червоне заповнення</translation>
     </message>
     <message>
         <source>Red Text</source>
@@ -17968,19 +17968,19 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Light Red Fill with Dark Red Text</source>
-        <translation>Світло-червона заливка і темно-червоний текст</translation>
+        <translation>Світло-червоне заповнення і темно-червоний текст</translation>
     </message>
     <message>
         <source>Yellow Fill with Dark Yellow Text</source>
-        <translation>Жовта заливка і темно-жовтий текст</translation>
+        <translation>Жовте заповнення і темно-жовтий текст</translation>
     </message>
     <message>
         <source>Green Fill with Dark Green Text</source>
-        <translation>Зелена заливка і темно-зелений текст</translation>
+        <translation>Зелене заповнення і темно-зелений текст</translation>
     </message>
     <message>
         <source>Light Red Fill</source>
-        <translation>Світло-червона заливка</translation>
+        <translation>Світло-червоне заповнення</translation>
     </message>
     <message>
         <source>Red Text</source>
@@ -18007,19 +18007,19 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Light Red Fill with Dark Red Text</source>
-        <translation>Світло-червона заливка і темно-червоний текст</translation>
+        <translation>Світло-червоне заповнення і темно-червоний текст</translation>
     </message>
     <message>
         <source>Yellow Fill with Dark Yellow Text</source>
-        <translation>Жовта заливка і темно-жовтий текст</translation>
+        <translation>Жовте заповнення і темно-жовтий текст</translation>
     </message>
     <message>
         <source>Green Fill with Dark Green Text</source>
-        <translation>Зелена заливка і темно-зелений текст</translation>
+        <translation>Зелене заповнення і темно-зелений текст</translation>
     </message>
     <message>
         <source>Light Red Fill</source>
-        <translation>Світло-червона заливка</translation>
+        <translation>Світло-червоне заповнення</translation>
     </message>
     <message>
         <source>Red Text</source>
@@ -18046,19 +18046,19 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Light Red Fill with Dark Red Text</source>
-        <translation>Світло-червона заливка і темно-червоний текст</translation>
+        <translation>Світло-червоне заповнення і темно-червоний текст</translation>
     </message>
     <message>
         <source>Yellow Fill with Dark Yellow Text</source>
-        <translation>Жовта заливка і темно-жовтий текст</translation>
+        <translation>Жовте заповнення і темно-жовтий текст</translation>
     </message>
     <message>
         <source>Green Fill with Dark Green Text</source>
-        <translation>Зелена заливка і темно-зелений текст</translation>
+        <translation>Зелене заповнення і темно-зелений текст</translation>
     </message>
     <message>
         <source>Light Red Fill</source>
-        <translation>Світло-червона заливка</translation>
+        <translation>Світло-червоне заповнення</translation>
     </message>
     <message>
         <source>Red Text</source>
@@ -18085,19 +18085,19 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Light Red Fill with Dark Red Text</source>
-        <translation>Світло-червона заливка і темно-червоний текст</translation>
+        <translation>Світло-червоне заповнення і темно-червоний текст</translation>
     </message>
     <message>
         <source>Yellow Fill with Dark Yellow Text</source>
-        <translation>Жовта заливка і темно-жовтий текст</translation>
+        <translation>Жовте заповнення і темно-жовтий текст</translation>
     </message>
     <message>
         <source>Green Fill with Dark Green Text</source>
-        <translation>Зелена заливка і темно-зелений текст</translation>
+        <translation>Зелене заповнення і темно-зелений текст</translation>
     </message>
     <message>
         <source>Light Red Fill</source>
-        <translation>Світло-червона заливка</translation>
+        <translation>Світло-червоне заповнення</translation>
     </message>
     <message>
         <source>Red Text</source>
@@ -19140,11 +19140,11 @@ Use * represent any number of character</translation>
     <name>KxDlgPivotSort</name>
     <message>
         <source>Sort</source>
-        <translation>Сортування</translation>
+        <translation>Впорядкування</translation>
     </message>
     <message>
         <source>Sort options</source>
-        <translation>Параметри сортування</translation>
+        <translation>Параметри впорядкування</translation>
     </message>
     <message>
         <source>&amp;Manual (you can drag items to rearrange them)</source>
@@ -19171,19 +19171,19 @@ Use * represent any number of character</translation>
     <name>KxDlgPivotSortOption</name>
     <message>
         <source>More Sort Options</source>
-        <translation>Додаткові параметри сортування</translation>
+        <translation>Додаткові параметри впорядкування</translation>
     </message>
     <message>
         <source>&amp;AutoSort</source>
-        <translation>автосортування (&amp;A)</translation>
+        <translation>автовпорядкування (&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Sort automatically every time the report is updated</source>
-        <translation>Здійснювати автосортування після кожного оновлення звіту (&amp;S)</translation>
+        <translation>Здійснювати автовпорядкування після кожного оновлення звіту (&amp;S)</translation>
     </message>
     <message>
         <source>&amp;First key sort order</source>
-        <translation>Сортування по першому ключу (&amp;F)</translation>
+        <translation>Впорядкування по першому ключу (&amp;F)</translation>
     </message>
     <message>
         <source>No Calculation</source>
@@ -19191,7 +19191,7 @@ Use * represent any number of character</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Сортувати</translation>
+        <translation>Впорядкувати</translation>
     </message>
     <message>
         <source>&amp;Grand Total</source>
@@ -19230,7 +19230,7 @@ Summary</source>
     <name>KxDlgPivotSortValue</name>
     <message>
         <source>Sort By Value</source>
-        <translation>Сортування за значенням</translation>
+        <translation>Впорядкування за значенням</translation>
     </message>
     <message>
         <source>Sort &amp;options</source>
@@ -19622,11 +19622,11 @@ Summary</source>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation>&amp;Підпис:</translation>
+        <translation>Підпис:</translation>
     </message>
     <message>
         <source>Item Sorting and Filtering</source>
-        <translation>Сортування і фільтрація елементів</translation>
+        <translation>Впорядкування і фільтрація елементів</translation>
     </message>
     <message>
         <source>&amp;Ascending (Smallest to Largest)</source>
@@ -19638,7 +19638,7 @@ Summary</source>
     </message>
     <message>
         <source>Use Custo&amp;m Lists when sorting</source>
-        <translation>Використовувати настроюються списки під час сортування (&amp;m)</translation>
+        <translation>Використовувати налаштовані списки під час впорядкування (&amp;m)</translation>
     </message>
     <message>
         <source>&amp;Hide items with no data</source>
@@ -19837,7 +19837,7 @@ file,click OK.</translation>
     <name>KxEtAfColorSortModel</name>
     <message>
         <source>Sort By Cell Color</source>
-        <translation>Сортування за кольором комірки</translation>
+        <translation>Впорядкування за кольором комірки</translation>
     </message>
     <message>
         <source>No Cell Color</source>
@@ -19849,7 +19849,7 @@ file,click OK.</translation>
     </message>
     <message>
         <source>Sort By Font Color</source>
-        <translation>Сортування за кольором шрифту</translation>
+        <translation>Впорядкування за кольором шрифту</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -19861,7 +19861,7 @@ file,click OK.</translation>
     </message>
     <message>
         <source>Sort By Cell Icon</source>
-        <translation>Сортування по значку комірки</translation>
+        <translation>Впорядкування по значку комірки</translation>
     </message>
     <message>
         <source>No Cell Icon</source>
@@ -20124,18 +20124,18 @@ file,click OK.</translation>
     </message>
     <message>
         <source>Choose a set of a icons to represent the values in the selected cells.</source>
-        <translation>Choose a set of a icons to represent the values in the selected cells.</translation>
+        <translation>Виберіть набір значків для представлення значень у вибраних комірках.</translation>
     </message>
 </context>
 <context>
     <name>KxEtCondFmtModel</name>
     <message>
         <source>Gradient Fill</source>
-        <translation>Градієнтний заливка</translation>
+        <translation>Градієнтне заповнення</translation>
     </message>
     <message>
         <source>Solid Fill</source>
-        <translation>Хмарно заливка</translation>
+        <translation>Суцільне заповнення</translation>
     </message>
     <message>
         <source>Directional</source>
@@ -20980,31 +20980,31 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>&amp;Clear Filter</source>
-        <translation>&amp;Очистити фільтр</translation>
+        <translation>Очистити фільтр</translation>
     </message>
     <message>
         <source>Names Scoped to Work&amp;sheet</source>
-        <translation>Імена на&amp;аркуші</translation>
+        <translation>Імена на аркуші</translation>
     </message>
     <message>
         <source>Names Scoped to Work&amp;book</source>
-        <translation>Імена в&amp;книзі</translation>
+        <translation>Імена в книзі</translation>
     </message>
     <message>
         <source>Names &amp;with Errors</source>
-        <translation>Names &amp;with Errors</translation>
+        <translation>Імена з помилками</translation>
     </message>
     <message>
         <source>Names with&amp;out Errors</source>
-        <translation>Імена&amp;без помилок</translation>
+        <translation>Імена без помилок</translation>
     </message>
     <message>
         <source>Defined &amp;Names</source>
-        <translation>Defined &amp;Names</translation>
+        <translation>Визначені імена</translation>
     </message>
     <message>
         <source>&amp;Table Names</source>
-        <translation>&amp;Імена таблиць</translation>
+        <translation>Імена таблиць</translation>
     </message>
     <message>
         <source>Edit Name</source>
@@ -21012,7 +21012,7 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the name %1?</source>
-        <translation>Are you sure you want to delete the name %1?</translation>
+        <translation>Ви дійсно хочете видалити ім&apos;я %1?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the selected names?</source>
@@ -21039,35 +21039,35 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>&amp;Select a Rule Type:</source>
-        <translation>&amp;Виберіть тип правила:</translation>
+        <translation>Виберіть тип правила:</translation>
     </message>
     <message>
         <source>Format all cells based on their values</source>
-        <translation>Format all cells based on their values</translation>
+        <translation>Форматувати всі комріки на основі їх значень</translation>
     </message>
     <message>
         <source>Format only cells that contain</source>
-        <translation>Формат тільки комірки, які містять</translation>
+        <translation>Форматувати тільки комірки, які містять</translation>
     </message>
     <message>
         <source>Format only top or bottom ranked values</source>
-        <translation>Format only top or bottom ranked values</translation>
+        <translation>Форматувати тільки верхні чи нижні ранги значення</translation>
     </message>
     <message>
         <source>Format only values that are above or below average</source>
-        <translation>Format only values that are above or below average</translation>
+        <translation>Форматувати тільки значення, які вище або нижче середнього</translation>
     </message>
     <message>
         <source>Format only unique or duplicate value</source>
-        <translation>Формат тільки унікальні або повторювані значення</translation>
+        <translation>Форматувати тільки унікальні або повторювані значення</translation>
     </message>
     <message>
         <source>Use a formula to determine which cells to format</source>
-        <translation>Використовувати формулу для визначення форматується комірок</translation>
+        <translation>Використовувати формулу для визначення формату комірок</translation>
     </message>
     <message>
         <source>&amp;Edit the Rule Description:</source>
-        <translation>&amp;Змініть опис правила:</translation>
+        <translation>Змінити опис правила:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -21090,7 +21090,7 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>The Comment cannot be longer than 255 characters.</source>
-        <translation>The Comment cannot be longer than 255 characters.</translation>
+        <translation>Коментар не може бути довше 255 символів.</translation>
     </message>
     <message>
         <source>the formula contains an error.</source>
@@ -21150,7 +21150,7 @@ Please unfreeze pane.</source>
     <name>KxPivotChartPreviewDlg</name>
     <message>
         <source>You cannot create a PivotChart with there data, Please check the reference range is valid.</source>
-        <translation>You cannot create a PivotChart with there data, Please check the reference range is valid.</translation>
+        <translation>Ви не можете створити зведену діаграму з такими даними, будь ласка, перевірте чи діапазон посилань є дійсний.</translation>
     </message>
     <message>
         <source>Move to Summary List</source>
@@ -21305,14 +21305,14 @@ Please unfreeze pane.</source>
     <name>KxPivotSortDlg</name>
     <message>
         <source>Sort (%1)</source>
-        <translation>Сортування (%1)</translation>
+        <translation>Впорядкування (%1)</translation>
     </message>
 </context>
 <context>
     <name>KxPivotSortOptionDlg</name>
     <message>
         <source>More Sort Options (%1)</source>
-        <translation>Додаткові параметри сортування (%1)</translation>
+        <translation>Додаткові параметри впорядкування (%1)</translation>
     </message>
     <message>
         <source>&amp;Values in selected %1:</source>
@@ -21415,11 +21415,11 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Rank Smallest to Largest</source>
-        <translation>Сортування від мінімального до максимального</translation>
+        <translation>Впорядкування від мінімального до максимального</translation>
     </message>
     <message>
         <source>Rank Largest to Smallest</source>
-        <translation>Сортування від максимального до мінімального</translation>
+        <translation>Впорядкування від максимального до мінімального</translation>
     </message>
     <message>
         <source>Index</source>
@@ -21758,11 +21758,11 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Rank Smallest to Largest</source>
-        <translation>Сортування від мінімального до максимального</translation>
+        <translation>Впорядкування від мінімального до максимального</translation>
     </message>
     <message>
         <source>Rank Largest to Smallest</source>
-        <translation>Сортування від максимального до мінімального</translation>
+        <translation>Впорядкування від максимального до мінімального</translation>
     </message>
 </context>
 <context>
